@@ -44,4 +44,3 @@ terraform {
         #
         # Authentication: Terraform will authenticate to Azure using the normal AzureRM provider methods
         # (Azure CLI `az login`, environment variables ARM_CLIENT_ID/ARM_CLIENT_SECRET/ARM_TENANT_ID, or managed identity).
-}
